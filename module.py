@@ -1,6 +1,6 @@
 import os
 
-def fun_env_var_and_param(param):
+def meow(param):
     x = os.environ.get('VALUE')
     print(param)
     print(x)

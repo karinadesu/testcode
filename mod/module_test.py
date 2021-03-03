@@ -22,4 +22,4 @@ def with_input_param(a, b):
 def without_input_param():
     k = 'hello_test_autodep23456';
     print(k)
-    return k
+    return {"result":k}

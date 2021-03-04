@@ -20,6 +20,6 @@ def with_input_param(a, b):
     return c
 
 def without_input_param():
-    k = 'hello_test_autodep234567';
+    k = 'check';
     print(k)
     return {"result":k}

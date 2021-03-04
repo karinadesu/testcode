@@ -20,6 +20,6 @@ def with_input_param(a, b):
     return c
 
 def without_input_param():
-    k = 'm';
+    k = 'm+ssl';
     print(k)
     return {"result":k}

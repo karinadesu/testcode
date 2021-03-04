@@ -20,6 +20,6 @@ def with_input_param(a, b):
     return c
 
 def without_input_param():
-    k = 'check';
+    k = 'check2';
     print(k)
     return {"result":k}
